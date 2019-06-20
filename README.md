@@ -30,4 +30,7 @@ Usage can be found by supplying the argument *--help/h* to the program whenever 
     --help/-h: Shows this menu (for help)
 
  
- The program uses the speedtest-cli library and is highly dependent on it. Without it, this library would have taken much longer, so thank you to those who made that library. The speedtest library also is based off of speedtest.net.
+The program uses the speedtest-cli library and is highly dependent on it. Without it, this library would have taken much longer, so thank you to those who made that library. The speedtest library also is based off of speedtest.net.
+
+However, this program is NOT entirely accurate as you can see, but it does give a very good idea of what your internet speed is and thus has some usage. This program is not to be exactly preferred over speedtest.net or any other (better) speed test utility, but this program's purpose is merely for show or to look good on your terminal.
+ 
