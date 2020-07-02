@@ -1,5 +1,6 @@
 # speedfetch
 -- A (GNU/Linux based/oriented) program for fetching speed test results on the command line.
+Version 1.1
 
 ## Screenshots
 ![enter image description here](https://i.ibb.co/86RgHVY/2019-06-20-103106-476x314-scrot.png)
